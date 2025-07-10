@@ -1,9 +1,3 @@
-<!-- Imagen del pumita con laptop centrado -->
-
-<p align="center">
-  <img src="assets/pumitab.png" width="200" alt="Pumita programadora con laptop" />
-</p>
-
 ### Hello World!
 
 - My name Shayla, but call me Shay.
